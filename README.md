@@ -1,1 +1,2 @@
 # ColorTheory
+Hi! I'm Johanna. I am pretty new to web development but thought i'd give it a try in order to build my skills as a designer. I am a sales rep and event coordinator within the marketing world turned UX Designer with experience assessing client needs and curating audience specific events. My favorite part of design is empathizing with users and discovering new insights that help me to create more delightful and user-friendly expperiences. I hope you enjoy!
